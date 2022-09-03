@@ -1,0 +1,15 @@
+body{
+  color:black;
+}
+p{
+  color:purple;
+}
+table, td, tr, th{
+  border:1px solid black;
+  margin:2%;
+  width:50%;
+  background-color: Teal;
+}
+th{
+  background-color: #B9FFF8;
+}
